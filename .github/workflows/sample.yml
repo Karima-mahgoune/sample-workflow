@@ -9,6 +9,6 @@ jobs:
           - name: string
             run: echo "Welcome to my!!"
           - name: multiline script
-            run: |
-            node -v
-            npm -v
+            run:
+             node -v
+             npm -v
